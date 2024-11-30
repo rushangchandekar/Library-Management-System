@@ -34,7 +34,8 @@ The application is based on a simple command-line interface where:
 
 Refer to the following **use case diagram** for a visual representation of the workflow:
 
-![Use Case Diagram](path/to/diagram.jpg) *(Replace this with the actual diagram's link or upload it to the repo.)*
+![Workflow Diagram](https://github.com/user-attachments/assets/1fb73a6b-208e-4dd3-86e7-c41c55a9c61c)
+
 
 ---
 
